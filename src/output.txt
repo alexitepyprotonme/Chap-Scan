@@ -1,0 +1,11 @@
+Number of detected open ports: 8
+8.8.8.8:53
+8.8.8.8:53
+8.8.8.8:53
+8.8.8.8:53
+8.8.8.8:443
+8.8.8.8:443
+8.8.8.8:443
+8.8.8.8:443
+
+Number of detected open ports: 8
